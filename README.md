@@ -1,17 +1,27 @@
 # README.md
 
-### LAB 4 pythonic-garage-band
+### LAB 4 
 
-## Project: Project Dutch Foy 
+## Project: pythonic-garage-band
 
-## Author: Student/Group Name
+## Author: Dutch Foy
 
 ## Links and Resources
 
-## Setup
-Per lab details
-i.e.
+Classes and Objects
 
+## Setup
+
+connect local repo to GitHub
+.venv requirements
+install package
+
+## Initialize/run your application
+
+python band.py 
+pytest-watch 
 
 ## Tests
-NA
+
+pytest
+package_name.module_name import function_name
